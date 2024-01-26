@@ -1,6 +1,6 @@
 # Instructions  
 
-## PRACTICUM 6 - DEBUGGING EXERCISE<br>
+## PRACTICUM 6 - Using a Debugger<br>
 
 ### WHAT TO DO
 - `Make any needed changes` to correct any syntax errors or runtime errors.
