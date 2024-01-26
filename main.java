@@ -1,5 +1,4 @@
-// Main.java
-// Code for Typical Java Errors Practicum
+// Practicum 6 (Use of Debugger)
 
 // ----------------------------------------------------------
 // This program will convert Celsius to Fahrenheit
