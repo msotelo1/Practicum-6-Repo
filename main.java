@@ -1,4 +1,4 @@
-// Practicum 6 (Use of Debugger)
+// Practicum 6 (Use of a Debugger)
 
 // ----------------------------------------------------------
 // This program will convert Celsius to Fahrenheit
